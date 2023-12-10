@@ -1,0 +1,472 @@
+{
+        "places": [
+                {
+                        "name": "York",
+                        "latitude": 53.958332,
+                        "longitude": 1.080278,
+                        "population": 141671
+                },
+                {
+                        "name": "Worcester",
+                        "latitude": 52.192001,
+                        "longitude": 2.22,
+                        "population": 205918
+                },
+                {
+                        "name": "Winchester",
+                        "latitude": 51.063202,
+                        "longitude": 1.308,
+                        "population": 124295
+                },
+                {
+                        "name": "Wells",
+                        "latitude": 51.209,
+                        "longitude": 2.647,
+                        "population": 12110
+                },
+                {
+                        "name": "Wakefield",
+                        "latitude": 53.68,
+                        "longitude": 1.49,
+                        "population": 343932
+                },
+                {
+                        "name": "Truro",
+                        "latitude": 50.259998,
+                        "longitude": 5.051,
+                        "population": 12261
+                },
+                {
+                        "name": "Sunderland",
+                        "latitude": 54.906101,
+                        "longitude": 1.38113,
+                        "population": 277733
+                },
+                {
+                        "name": "Sheffield",
+                        "latitude": 53.383331,
+                        "longitude": 1.466667,
+                        "population": 584028
+                },
+                {
+                        "name": "Salford",
+                        "latitude": 53.483002,
+                        "longitude": 2.2931,
+                        "population": 269923
+                },
+                {
+                        "name": "St. Davids",
+                        "latitude": 51.882,
+                        "longitude": 5.269,
+                        "population": 1348
+                },
+                {
+                        "name": "St.Albans",
+                        "latitude": 51.755001,
+                        "longitude": 0.336,
+                        "population": 147373
+                },
+                {
+                        "name": "Ripon",
+                        "latitude": 54.138,
+                        "longitude": 1.524,
+                        "population": 16440
+                },
+                {
+                        "name": "Portsmouth",
+                        "latitude": 50.805832,
+                        "longitude": 1.087222,
+                        "population": 208100
+                },
+                {
+                        "name": "Perth",
+                        "latitude": 56.396999,
+                        "longitude": 3.437,
+                        "population": 153810
+                },
+                {
+                        "name": "Nottingham",
+                        "latitude": 52.950001,
+                        "longitude": 1.15,
+                        "population": 331297
+                },
+                {
+                        "name": "Newry",
+                        "latitude": 54.175999,
+                        "longitude": 6.349,
+                        "population": 27913
+                },
+                {
+                        "name": "Newcastle Upon Tyne",
+                        "latitude": 54.966667,
+                        "longitude": 1.6,
+                        "population": 2000
+                },
+                {
+                        "name": "Liverpool",
+                        "latitude": 53.400002,
+                        "longitude": 2.983333,
+                        "population": 500500
+                },
+                {
+                        "name": "Lincoln",
+                        "latitude": 53.234444,
+                        "longitude": 0.538611,
+                        "population": 103900
+                },
+                {
+                        "name": "Lichfield",
+                        "latitude": 52.683498,
+                        "longitude": 1.82653,
+                        "population": 106436
+                },
+                {
+                        "name": "Leicester",
+                        "latitude": 52.633331,
+                        "longitude": 1.133333,
+                        "population": 357394
+                },
+                {
+                        "name": "Lancaster",
+                        "latitude": 54.047001,
+                        "longitude": 2.801,
+                        "population": 52234
+                },
+                {
+                        "name": "Hereford",
+                        "latitude": 52.056499,
+                        "longitude": 2.716,
+                        "population": 53112
+                },
+                {
+                        "name": "Gloucester",
+                        "latitude": 51.864445,
+                        "longitude": 2.244444,
+                        "population": 132538
+                },
+                {
+                        "name": "Glasgow",
+                        "latitude": 55.860916,
+                        "longitude": 4.251433,
+                        "population": 1698000
+                },
+                {
+                        "name": "Exeter",
+                        "latitude": 50.716667,
+                        "longitude": 3.533333,
+                        "population": 130709
+                },
+                {
+                        "name": "Ely",
+                        "latitude": 52.398056,
+                        "longitude": 0.262222,
+                        "population": 19189
+                },
+                {
+                        "name": "Durham",
+                        "latitude": 54.7761,
+                        "longitude": 1.5733,
+                        "population": 527035
+                },
+                {
+                        "name": "Dundee",
+                        "latitude": 56.462002,
+                        "longitude": 2.9707,
+                        "population": 147720
+                },
+                {
+                        "name": "Derry",
+                        "latitude": 54.9958,
+                        "longitude": 7.3074,
+                        "population": 237000
+                },
+                {
+                        "name": "Derby",
+                        "latitude": 52.916668,
+                        "longitude": 1.466667,
+                        "population": 258746
+                },
+                {
+                        "name": "Coventry",
+                        "latitude": 52.408054,
+                        "longitude": 1.510556,
+                        "population": 345300
+                },
+                {
+                        "name": "Chichester",
+                        "latitude": 50.836498,
+                        "longitude": 0.7792,
+                        "population": 23731
+                },
+                {
+                        "name": "Chester",
+                        "latitude": 53.189999,
+                        "longitude": 2.89,
+                        "population": 931347
+                },
+                {
+                        "name": "Chelmsford",
+                        "latitude": 51.736099,
+                        "longitude": 0.4798,
+                        "population": 181523
+                },
+                {
+                        "name": "Carlisle",
+                        "latitude": 54.890999,
+                        "longitude": 2.944,
+                        "population": 108387
+                },
+                {
+                        "name": "Canterbury",
+                        "latitude": 51.279999,
+                        "longitude": 1.08,
+                        "population": 43432
+                },
+                {
+                        "name": "Cambridge",
+                        "latitude": 52.205276,
+                        "longitude": 0.119167,
+                        "population": 145700
+                },
+                {
+                        "name": "Brighton & Hove",
+                        "latitude": 50.827778,
+                        "longitude": 0.152778,
+                        "population": 290395
+                },
+                {
+                        "name": "Bradford",
+                        "latitude": 53.799999,
+                        "longitude": 1.75,
+                        "population": 536986
+                },
+                {
+                        "name": "Bath",
+                        "latitude": 51.380001,
+                        "longitude": 2.36,
+                        "population": 94092
+                },
+                {
+                        "name": "Peterborough",
+                        "latitude": 52.573921,
+                        "longitude": 0.25083,
+                        "population": 217705
+                },
+                {
+                        "name": "Elgin",
+                        "latitude": 57.653484,
+                        "longitude": 3.335724,
+                        "population": 25040
+                },
+                {
+                        "name": "Stoke-on-Trent",
+                        "latitude": 53.002666,
+                        "longitude": 2.179404,
+                        "population": 256127
+                },
+                {
+                        "name": "Solihull",
+                        "latitude": 52.412811,
+                        "longitude": 1.778197,
+                        "population": 216240
+                },
+                {
+                        "name": "Cardiff",
+                        "latitude": 51.481583,
+                        "longitude": 3.17909,
+                        "population": 362310
+                },
+                {
+                        "name": "Eastbourne",
+                        "latitude": 50.768036,
+                        "longitude": 0.290472,
+                        "population": 103745
+                },
+                {
+                        "name": "Oxford",
+                        "latitude": 51.752022,
+                        "longitude": 1.257677,
+                        "population": 152450
+                },
+                {
+                        "name": "London",
+                        "latitude": 51.509865,
+                        "longitude": 0.118092,
+                        "population": 9648110
+                },
+                {
+                        "name": "Swindon",
+                        "latitude": 51.568535,
+                        "longitude": 1.772232,
+                        "population": 233410
+                },
+                {
+                        "name": "Gravesend",
+                        "latitude": 51.441883,
+                        "longitude": 0.370759,
+                        "population": 58102
+                },
+                {
+                        "name": "Northampton",
+                        "latitude": 52.240479,
+                        "longitude": 0.902656,
+                        "population": 747622
+                },
+                {
+                        "name": "Rugby",
+                        "latitude": 52.370876,
+                        "longitude": 1.265032,
+                        "population": 114400
+                },
+                {
+                        "name": "Sutton Coldfield",
+                        "latitude": 52.570385,
+                        "longitude": 1.824042,
+                        "population": 96678
+                },
+                {
+                        "name": "Harlow",
+                        "latitude": 51.772938,
+                        "longitude": 0.10231,
+                        "population": 93566
+                },
+                {
+                        "name": "Aberdeen",
+                        "latitude": 57.149651,
+                        "longitude": 2.099075,
+                        "population": 227430
+                },
+                {
+                        "name": "Swansea",
+                        "latitude": 51.621441,
+                        "longitude": 3.943646,
+                        "population": 246217
+                },
+                {
+                        "name": "Chesterfield",
+                        "latitude": 53.235046,
+                        "longitude": 1.421629,
+                        "population": 103569
+                },
+                {
+                        "name": "Londonderry",
+                        "latitude": 55.006763,
+                        "longitude": 7.318268,
+                        "population": 252231
+                },
+                {
+                        "name": "Salisbury",
+                        "latitude": 51.068787,
+                        "longitude": 1.794472,
+                        "population": 45000
+                },
+                {
+                        "name": "Manchester",
+                        "latitude": 53.483959,
+                        "longitude": 2.244644,
+                        "population": 553230
+                },
+                {
+                        "name": "Bristol",
+                        "latitude": 51.454514,
+                        "longitude": 2.58791,
+                        "population": 467099
+                },
+                {
+                        "name": "Wolverhampton",
+                        "latitude": 52.59137,
+                        "longitude": 2.110748,
+                        "population": 262242
+                },
+                {
+                        "name": "Preston",
+                        "latitude": 53.765762,
+                        "longitude": 2.692337,
+                        "population": 147617
+                },
+                {
+                        "name": "Ayr",
+                        "latitude": 55.458565,
+                        "longitude": 4.629179,
+                        "population": 46982
+                },
+                {
+                        "name": "Hastings",
+                        "latitude": 50.854259,
+                        "longitude": 0.573453,
+                        "population": 92855
+                },
+                {
+                        "name": "Bedford",
+                        "latitude": 52.136436,
+                        "longitude": 0.460739,
+                        "population": 173237
+                },
+                {
+                        "name": "Basildon",
+                        "latitude": 51.572376,
+                        "longitude": 0.470009,
+                        "population": 115964
+                },
+                {
+                        "name": "Chippenham",
+                        "latitude": 51.458057,
+                        "longitude": 2.116074,
+                        "population": 45337
+                },
+                {
+                        "name": "Birmingham",
+                        "latitude": 52.489471,
+                        "longitude": 1.898575,
+                        "population": 1149000
+                },
+                {
+                        "name": "Folkestone",
+                        "latitude": 51.081398,
+                        "longitude": 1.169456,
+                        "population": 51991
+                },
+                {
+                        "name": "Edinburgh",
+                        "latitude": 55.953251,
+                        "longitude": 3.188267,
+                        "population": 526470
+                },
+                {
+                        "name": "Southampton",
+                        "latitude": 50.909698,
+                        "longitude": 1.404351,
+                        "population": 254361
+                },
+                {
+                        "name": "Belfast",
+                        "latitude": 54.607868,
+                        "longitude": 5.926437,
+                        "population": 293298
+                },
+                {
+                        "name": "Leeds",
+                        "latitude": 53.801277,
+                        "longitude": 1.548567,
+                        "population": 792525
+                },
+                {
+                        "name": "Hull",
+                        "latitude": 53.76775,
+                        "longitude": 0.335827,
+                        "population": 261149
+                },
+                {
+                        "name": "Plymouth",
+                        "latitude": 50.376289,
+                        "longitude": 4.143841,
+                        "population": 264695
+                },
+                {
+                        "name": "Inverness",
+                        "latitude": 57.477772,
+                        "longitude": 4.224721,
+                        "population": 46870
+                }
+        ]
+}

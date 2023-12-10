@@ -1,0 +1,1 @@
+{'error_code': 'ODSQLError', 'message': 'ODSQL query is malformed: city is not a known field.'}
